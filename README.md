@@ -4,6 +4,7 @@
 - 📫 How to reach me:
 Instagram: https://www.instagram.com/b.bianca60/
 Facebook: https://www.facebook.com/profile.php?id=100009876916711
+- 🖼 Hobbies: Reading books, playing World of Warcraft, hiking
 
 <!---
 BiancaBatinas/BiancaBatinas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
