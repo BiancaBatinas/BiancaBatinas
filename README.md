@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BiancaBatinas
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS, HTML, JavaScript
+- 🌱 I’m currently learning CSS, HTML, JavaScript and ReactJs
 - 📫 How to reach me:
 Instagram: https://www.instagram.com/b.bianca60/
 Facebook: https://www.facebook.com/profile.php?id=100009876916711
